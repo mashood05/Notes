@@ -1,0 +1,1 @@
+Azure Notification hub is a [[Platform as a Service (PaaS)]] providing a simple cross platform method for using push notifications in your applications. 

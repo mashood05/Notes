@@ -1,0 +1,1 @@
+When you run Web Apps using the Azure App Service, you pay for the Azure compute resources that the app uses, and the resource costs depend on the App Service plan associated with your Web Apps. Service plans determine the region used for the app datacenter, number of VMs used, and pricing tier.

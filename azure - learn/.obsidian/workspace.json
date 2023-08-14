@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "3f1c7b8da807c3dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "58859c8bb359bccf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c05be63f03076b6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cloud Learning/Azure/Azure Services/Virtual Machines/Virtual Machines Resources.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4ab6e7f6cfede463",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e98504d14d59d9a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae2130f755d45d9a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "0523e569060b0e06",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d72fccd15b73909a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 365.5
+  },
+  "right": {
+    "id": "6e05bc8d1ae030dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4213860e7801871",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f419135c94d19a67",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Cloud Learning/Azure/Azure Services/Virtual Machines/Virtual Machines Resources.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "310b25d248de686c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Cloud Learning/Azure/Azure Services/Virtual Machines/Virtual Machines Resources.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4f14a3ad30216b9d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1013e0f830464ee4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Cloud Learning/Azure/Azure Services/Virtual Machines/Virtual Machines Resources.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c05be63f03076b6c",
+  "lastOpenFiles": [
+    "Cloud Learning/Azure/Azure Services/Virtual Machines/Virtual Machines.md",
+    "Cloud Learning/Azure/Azure Services/Untitled",
+    "Cloud Learning/Azure/Azure 204/Working With Azure Compute/Azure Compute.md",
+    "Cloud Learning/Azure/Azure 204/Working With Azure Compute/App Service plan.md",
+    "Cloud Learning/Azure/Azure 204/Module Connecting Services/Start Connecting Services.md",
+    "Cloud Learning/Azure/Azure Services/ARM Templates.md",
+    "Cloud Learning/Azure/Azure ClI/Commands/commands.md",
+    "webapp.md",
+    "Cloud Learning/Azure/Azure ClI/How To/Steps to deploy code from GitHub.md",
+    "Cloud Learning/Azure/Azure ClI/How To/How to create an Azure resource.md",
+    "Cloud Learning/Azure/Azure ClI/Azure Clis.md",
+    "Deployment.md",
+    "appservice.md",
+    "Cloud Learning/Azure/Azure ClI/Commands/group.md",
+    "Cloud Learning/Azure/Azure Services/Service Bus/Azure Service Bus.md",
+    "Cloud Learning/Azure/Azure Services/Service Bus/Azure Services Bus Resources.md",
+    "Cloud Learning/Azure/Azure ClI/Commands/login.md",
+    "Pasted image 20230813181542.png",
+    "Cloud Learning/Azure/Azure ClI/How To",
+    "Cloud Learning/Azure/Azure ClI/Commands/find.md",
+    "Cloud Learning/Azure/Azure ClI/Commands",
+    "Cloud Learning/Azure/Azure ClI/Commands/Az.md",
+    "Cloud Learning/Azure/Azure ClI/Commands",
+    "Cloud Learning/Azure/Azure ClI/Azure Cli Resources/Azure ClI Resources.md",
+    "Cloud Learning/Azure/Azure ClI/Azure Cli Resources",
+    "Cloud Learning/Azure/Azure ClI",
+    "Cloud Learning/Azure/Azure Services/Azure Containers",
+    "Cloud Learning/Azure/Azure Services/Azure Functions",
+    "Cloud Learning/Azure/Azure Services/Azure Containers/Azure Containers.md",
+    "Cloud Learning/Azure/Azure Services/Azure Functions/Azure Functions.md",
+    "Cloud Learning/Azure/Azure Services/Virtual Machines/Virtual Machines Resources.md",
+    "Cloud Learning/Azure/Azure Services/API Management/Start API Management.md",
+    "Cloud Learning/Azure/Azure Services/Virtual Machines",
+    "Cloud Learning/Azure/Azure Services/API Management/Portals/Dev Portal.md",
+    "Cloud Learning/Azure/Azure 204/Working With Azure Compute",
+    "Cloud Learning/Azure/Azure Services/Event Hub/Event Hub - Pulling modal.md",
+    "Pasted image 20230812210212.png",
+    "Pasted image 20230812175204.png",
+    "Pasted image 20230812174046.png",
+    "Cloud Learning/Azure/Azure Services/API Management/Pasted image 20230812162856.png"
+  ]
+}

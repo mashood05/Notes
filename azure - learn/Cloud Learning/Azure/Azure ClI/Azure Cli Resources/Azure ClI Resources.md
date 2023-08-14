@@ -1,0 +1,1 @@
+https://learn.microsoft.com/en-us/training/modules/control-azure-services-with-cli/
