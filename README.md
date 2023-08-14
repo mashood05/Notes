@@ -1,2 +1,2 @@
 # Notes
-Self Learning Notes Written in Obsidian
+Self Learning, Notes Written in Obsidian
